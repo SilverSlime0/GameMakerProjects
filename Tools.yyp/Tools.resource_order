@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"SDT_Documentation","order":2,"path":"notes/SDT_Documentation/SDT_Documentation.yy",},
+    {"name":"obj_SDT_ExampleControl","order":2,"path":"objects/obj_SDT_ExampleControl/obj_SDT_ExampleControl.yy",},
+    {"name":"obj_SDT_SubjectUnsteady","order":2,"path":"objects/obj_SDT_SubjectUnsteady/obj_SDT_SubjectUnsteady.yy",},
+    {"name":"spr_SDT_CheeryBlob","order":1,"path":"sprites/spr_SDT_CheeryBlob/spr_SDT_CheeryBlob.yy",},
+  ],
+}

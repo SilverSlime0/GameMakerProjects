@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"gel_progressbar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gel_progressbar",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

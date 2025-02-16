@@ -1,0 +1,47 @@
+{
+  "$GMProject":"",
+  "%Name":"Tools",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Steady Delta Time","folderPath":"folders/Steady Delta Time.yy","name":"Steady Delta Time","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Example SDT (safe to delete)","folderPath":"folders/Steady Delta Time/Example SDT (safe to delete).yy","name":"Example SDT (safe to delete)","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Test Subjects","folderPath":"folders/Steady Delta Time/Example SDT (safe to delete)/Test Subjects.yy","name":"Test Subjects","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"23.1.1.230",
+    "PackageType":"Asset",
+    "PackageName":"Steady Delta Time",
+    "PackageID":"com.8bitwarrior.steadydeltatime",
+    "PackagePublisher":"Stephen Loney",
+    "PackageVersion":"1.2.10",
+  },
+  "name":"Tools",
+  "resources":[
+    {"id":{"name":"SDT_Documentation","path":"notes/SDT_Documentation/SDT_Documentation.yy",},},
+    {"id":{"name":"obj_SDT_ExampleControl","path":"objects/obj_SDT_ExampleControl/obj_SDT_ExampleControl.yy",},},
+    {"id":{"name":"obj_SDT_SubjectSteady","path":"objects/obj_SDT_SubjectSteady/obj_SDT_SubjectSteady.yy",},},
+    {"id":{"name":"obj_SDT_SubjectUnsteady","path":"objects/obj_SDT_SubjectUnsteady/obj_SDT_SubjectUnsteady.yy",},},
+    {"id":{"name":"obj_SteadyDeltaTime","path":"objects/obj_SteadyDeltaTime/obj_SteadyDeltaTime.yy",},},
+    {"id":{"name":"rm_SDT_ExampleRoom","path":"rooms/rm_SDT_ExampleRoom/rm_SDT_ExampleRoom.yy",},},
+    {"id":{"name":"spr_SDT_CheeryBlob","path":"sprites/spr_SDT_CheeryBlob/spr_SDT_CheeryBlob.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_SDT_ExampleRoom","path":"rooms/rm_SDT_ExampleRoom/rm_SDT_ExampleRoom.yy",},},
+  ],
+  "templateType":null,
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

@@ -1,0 +1,1 @@
+if(instance_exists(progressmanager))instance_destroy(instance_find(progressmanager,0));
