@@ -1,5 +1,5 @@
 # WAFORGE2025
- 
+~25hr
 Code: Silver Liu
 Art: Diana Everman, Esperanza Carillo Corral, Ivy Yang
 
